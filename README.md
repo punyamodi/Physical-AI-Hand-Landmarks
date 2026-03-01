@@ -84,5 +84,5 @@ Physical AI bridges digital models with physical interaction. By capturing high-
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
 
-Developed with ❤️ by [Punyamodi](https://github.com/punyamodi)
-_Enhanced for Excellence by Antigravity_
+Developed by [Punyamodi](https://github.com/punyamodi)
+
