@@ -23,7 +23,7 @@ A **professional, high-performance toolkit** for capturing 3D hand landmarks, bu
 ## 📂 Project Structure
 
 ```text
-Hand_Landmarks_Data_Collection/
+Physical-AI-Hand-Landmarks/
 ├── src/
 │   ├── collector.py      # Core landmark detection logic
 │   ├── ui.py             # Sleek CustomTkinter interface
@@ -45,8 +45,8 @@ Hand_Landmarks_Data_Collection/
 Ensure you have Python 3.8+ installed. It is recommended to use a virtual environment.
 
 ```bash
-git clone https://github.com/punyamodi/Hand_Landmarks_Data_Collection
-cd Hand_Landmarks_Data_Collection
+git clone https://github.com/punyamodi/Physical-AI-Hand-Landmarks
+cd Physical-AI-Hand-Landmarks
 pip install -r requirements.txt
 ```
 
